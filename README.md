@@ -4,7 +4,7 @@ This project consists of three core modules:
 
 - **PromptAnatomy**: Prompt Dissection Pipeline (Semantic Component Classification)
 - **ComPerturb**: Component Perturbation (Adversarial Attack Strategies)
-- **PCM.py**: Prompt Complexity Measurement
+- **PCM.py**: Prompt Complexity Metric
 
 ---
 
