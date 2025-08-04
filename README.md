@@ -67,7 +67,7 @@ nltk.download('words')
 
 **Usage**:
 ```bash
-PromptAnatomy/process_sentence.py
+python PromptAnatomy/process_sentence.py
 ```
 ```bash
 python PromptAnatomy/new_auto_recognition.py
