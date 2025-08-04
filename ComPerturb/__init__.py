@@ -1,0 +1,3 @@
+"""
+Attack package initialization
+""" 
